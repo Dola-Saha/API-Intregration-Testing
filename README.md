@@ -84,3 +84,5 @@ The suite verifies:
 - Customer, agent, and merchant contact details are generated from the current timestamp to reduce duplicate-data conflicts.
 - The configured OTP must be valid for the target API environment.
 
+## Report
+![alt text](image-1.png)
